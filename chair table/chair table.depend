@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741336457 source:c:\users\asus\desktop\chair table\main.c
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+
